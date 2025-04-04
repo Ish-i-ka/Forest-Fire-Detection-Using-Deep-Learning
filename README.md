@@ -25,3 +25,4 @@ The script performs the following actions:
 ## Dataset 
 
 This script uses "The Wildfire Dataset" (specifically `the_wildfire_dataset_2n_version`). Ensure the dataset is available at the specified path or can be downloaded via `kagglehub`.
+Dataset Link - `https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset`
